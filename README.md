@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/trenton-gorman03/">
+    <a href="https://www.linkedin.com/in/trenton-gorman03/" target="_blank" rel="noopener noreferrer" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/tgor03">
+    <a href="https://twitter.com/tgor03" target="_blank" rel="noopener noreferrer" >
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
